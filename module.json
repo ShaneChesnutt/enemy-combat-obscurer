@@ -1,0 +1,12 @@
+{
+  "name": "enemy-combat-obscurer",
+  "title": "Enemy Combat Obscurer",
+  "description": "Automatically hides and renames enemy NPCs during combat.",
+  "author": "Shane Chesnutt",
+  "version": "1.0.0",
+  "minimumCoreVersion": "0.5.0",
+  "scripts": [],
+  "esmodules": [
+    "./scripts/main.js"
+  ]
+}
